@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://hackpuntes.com" target="_blank">
-      <img src="https://cve.mitre.org/images/cvebanner.gif" width="150">
+      <img src="https://raw.githubusercontent.com/JavierOlmedo/Source2Dictionary/master/img/s2d.png" width="300">
     </a>
     <h3 align="center">Source Code 2 Dictionary</h3>
     <p align="center">🛠️ A tool to convert source code into a dictionary to perform fuzzing 🛠️</p>
