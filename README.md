@@ -14,8 +14,18 @@
 </p>
 
 # Source2Dictionary
-A tool developed in python to convert the source code into a dictionary to perform fuzzing
+A tool developed in python to convert the source code into a dictionary to perform fuzzing.
 
 ## Install
+Install Source2Dictionary is very simple, you can follow this steps:
+
 ```
+bash
+sudo -s << EOF
+git clone https://github.com/JavierOlmedo/Source2Dictionary.git
+cd Source2Dictionary
+chmod +x install.sh
+./install.sh
+python3 s2d.py
+EOF
 ```
